@@ -1,4 +1,4 @@
-# Flux de sorties et retours, investissement dans une trieuse – Power BI
+# Flux de sorties et retours, investissement dans une trieuse
 
 **Outil** : Power BI · **Projet 4** · Retail & Log
 
