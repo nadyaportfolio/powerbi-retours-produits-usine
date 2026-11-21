@@ -16,8 +16,6 @@
 
 **Conclusion** : les données justifient l'investissement (bonne couverture des flux, gain de temps, capacité adaptée).
 
-![Aperçu du tableau de bord](apercu.png)
-
 **Compétences** : tableau de bord interactif, reporting d'aide à la décision, récit des résultats
 
 **Fichiers** : `P4_dashboard_052026.pbix`, `P4_presentation_052026.pptx`
